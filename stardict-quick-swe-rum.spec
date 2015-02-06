@@ -1,5 +1,5 @@
 %define	version	2.4.2
-%define release	%mkrel 6
+%define release	7
 %define dict_format_version	2.4.2
 
 Summary:	Swedish -> Romanian *Quick dictionary for StarDict 2
